@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Artefatos de debug são regeneráveis e pesados (render.png, crop.png e polys_overlay.png têm ~17 MB cada)
+debug/
