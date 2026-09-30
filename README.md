@@ -42,7 +42,7 @@ geopy/
 Requer Python 3.10 ou superior.
 
 ```bash
-git clone git@github.com:alexandremartinx/geopy.git
+git clone git@github.com:MFactor-Tecnologia/geopy.git
 cd geopy
 python3 -m venv .venv
 .venv/bin/pip install -r requirements.txt
